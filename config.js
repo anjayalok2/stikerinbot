@@ -30,7 +30,7 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'arif️fb'
+global.packname = '𝑀𝑒𝑙𝑙 💫'
 global.author = 'amel'
 
 global.wm = '© ariffb & melcanz'
