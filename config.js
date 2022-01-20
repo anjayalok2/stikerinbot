@@ -30,10 +30,10 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = '𝑀𝑒𝑙𝑙 💫'
-global.author = 'amel'
+global.packname = 'ツ 💫'
+global.author = 'Y'
 
-global.wm = '© ariffb & melcanz'
+global.wm = '© ariffb & XrzzF'
 global.wait = '_*tunggu sedang diproses...*_'
 global.eror = '_*Server Error*_'
 global.benar = '✅'
